@@ -49,6 +49,10 @@
 
 .home-content p {
     font-size: 20px;
+    line-height: 1.45;
+    margin-right: 4rem;
+    text-indent: 4%;
+    text-align: left;
     opacity: 0;
     animation: slideLeft 1s ease forwards;
     animation-delay: 1s;

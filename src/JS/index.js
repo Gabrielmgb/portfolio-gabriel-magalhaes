@@ -1,8 +1,8 @@
 var typed= new Typed(".text", {
-    strings:["Fullstack Developer", "Frontend Developer", "Web Developer"],
-    typeSpeed: 100,
-    BackSpeed: 100,
-    backDelay: 1000,
+    strings:["Desenvolvedor Fullstack", "Desenvolvedor Frontend", "Desenvolvedor Web"],
+    typeSpeed: 70,
+    BackSpeed: 150,
+    backDelay: 800,
     loop:true
 });
 

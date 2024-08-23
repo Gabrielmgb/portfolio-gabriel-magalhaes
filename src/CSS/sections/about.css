@@ -33,8 +33,19 @@
     color: aliceblue;
     font-size: 20px;
     line-height: 1.45;
-    margin-bottom: 4rem;
+    margin-bottom: 2.5rem;
     margin-right: 4rem;
     text-indent: 10%;
     text-align: justify;
+}
+
+/* .btn-box.download{
+    margin-right: 2rem;
+} */
+
+.btns a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 2rem 20px 0;
 }

@@ -12,6 +12,7 @@
     font-size: 90px;
     line-height: 1;
     text-align: center;
+    margin-bottom: 3rem;
 }
 
 .contact-text h2 span {
@@ -34,8 +35,12 @@
 .contact-text p {
     color: rgb(177, 177, 177);
     font-size: 20px;
-    line-height: 30px;
     margin-bottom: 2rem;
+    line-height: 1.45;
+    margin-bottom: 2.5rem;
+    margin-right: 2.5rem;
+    text-indent: 10%;
+    text-align: justify;
 }
 
 .contact-list {
