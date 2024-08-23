@@ -1,18 +1,17 @@
-
 .home {
+    background: url(/src/images/wallpaper\ perfil\ cartoon.png);
+    background-size: cover;
+    background-position: center;
     position: relative;
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(/src/images/wallpaper\ perfil\ cartoon.png);
-    background-size: cover;
-    background-position: center;
     display: flex;
-
     justify-content: space-between;
     align-items: center;
     padding: 70px 10% 0;
 }
+
 
 .home-content {
     max-width: 600px;
