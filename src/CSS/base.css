@@ -29,6 +29,8 @@ img {
     max-width: 100%;
 }
 
+
+
 .top {
     position: fixed;
     bottom: 1rem;
@@ -53,4 +55,19 @@ img {
 }
 
 
+::-webkit-scrollbar {
+    width: 10px; /* Largura da scrollbar */
+    height: 10px; /* Altura da scrollbar horizontal */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #0ef; /* Cor do polegar */
+    border-radius: .5rem; /* Bordas arredondadas */
+    border: 2px solid #0053b8f7; /* Borda ao redor do polegar */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #000000; 
+    /* Cor da trilha */
+}
 
