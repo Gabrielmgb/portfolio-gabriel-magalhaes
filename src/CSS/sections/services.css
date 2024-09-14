@@ -2,13 +2,13 @@
     color: aliceblue;
     font-size: 20px;
     line-height: 1.4;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .sub-title {
     text-align: center;
     font-size: 60px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .sub-title span {
