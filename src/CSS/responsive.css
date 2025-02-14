@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    #about {
+        display: flex; 
+        flex-direction: column-reverse;
+    }
+
+    .about .about-text{
+        padding-left: 2rem;
+    }
+    .about .about-img {
+        max-width: 350px;
+    }
+
+    #contact {
+        display: flex;
+    }
+
+    
+};
